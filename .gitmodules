@@ -1,0 +1,3 @@
+[submodule "espressif"]
+	path = espressif
+	url = https://github.com/espressif/kicad-libraries.git
