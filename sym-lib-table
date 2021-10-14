@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Caliper)(type Legacy)(uri ${KIPRJMOD}/Caliper.lib)(options "")(descr ""))
+  (lib (name ESP)(type Legacy)(uri /Users/adamm/git/caliper-hardware/libs/espressif/libraries/Espressif.lib)(options "")(descr ""))
+)
